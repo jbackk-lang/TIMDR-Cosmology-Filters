@@ -1,5 +1,9 @@
 # TIMDR Cosmology Filters
 
+<!-- TIMDR HUB LINKS -->
+> **Ekosystem TIMDR:** [Knowledge Hub — dokumentacja i wyszukiwarka](https://jbackk-lang.github.io/TIMDR-AI-Knowledge-Base/) · [Panel badawczy](https://jbackk-lang.github.io/) · [GIA-TIMDR — źródła](https://github.com/jbackk-lang/GIA-TIMDR) · [Research AI — lokalne wyszukiwanie semantyczne](https://github.com/jbackk-lang/TIMDR-AI-Knowledge-Base). Publiczna wyszukiwarka Huba jest tekstowa; semantyczna wymaga lokalnego uruchomienia.
+<!-- /TIMDR HUB LINKS -->
+
 Nowy moduł — filtry anomalii dla danych kosmologicznych, budowane od
 zera po audycie `GIA-TIMDR/docs/filters/al_filter_predictions.md`
 (wcześniej w tej sesji), gdzie znaleziono błąd arytmetyczny, obalone
